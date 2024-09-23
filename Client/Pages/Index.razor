@@ -1,0 +1,75 @@
+﻿@page "/"
+@inject CharacterService CharacterService
+
+<PageTitle>Personajes de Rick y Morty</PageTitle>
+
+<h1>Personajes de Rick y Morty</h1>
+
+<input @bind="searchQuery" @bind:event="oninput" placeholder="Buscar" class="search-bar" />
+
+@if (characterResponse == null)
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <div class="characters">
+        @foreach (var character in FilteredCharacters)
+        {
+            <div class="character-card">
+                <img src="@character.Image" alt="@character.Name" />
+                <h2>@character.Name</h2>
+                <p>Status: @character.Status</p>
+                <p>Species: @character.Species</p>
+                <p>Gender: @character.Gender</p>
+            </div>
+        }
+    </div>
+
+    <div class="pagination">
+        @if (characterResponse.Info.Prev != null)
+        {
+            <button @onclick="PreviousPage">Anterior</button>
+        }
+        @if (characterResponse.Info.Next != null)
+        {
+            <button @onclick="NextPage">Siguiente</button>
+        }
+    </div>
+}
+
+@code {
+    private CharacterResponse characterResponse;
+    private int currentPage = 1;
+    private string searchQuery = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCharacters();
+    }
+
+    private async Task LoadCharacters()
+    {
+        characterResponse = await CharacterService.GetCharacters(currentPage);
+    }
+
+    private async Task NextPage()
+    {
+        currentPage++;
+        await LoadCharacters();
+    }
+
+    private async Task PreviousPage()
+    {
+        if (currentPage > 1)
+        {
+            currentPage--;
+            await LoadCharacters();
+        }
+    }
+
+    private IEnumerable<Character> FilteredCharacters =>
+        string.IsNullOrWhiteSpace(searchQuery)
+            ? characterResponse.Results
+            : characterResponse.Results.Where(c => c.Name.Contains(searchQuery, StringComparison.OrdinalIgnoreCase));
+}

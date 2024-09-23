@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\services\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\services\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD977AA-A7A6-4635-9750-A29EC996459A}|Shared\\RickAndMorty.Shared.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\shared\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD977AA-A7A6-4635-9750-A29EC996459A}|Shared\\RickAndMorty.Shared.csproj|solutionrelative:shared\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968BC12-EE5E-4402-A4F3-C8D408CB62E6}|Server\\RickAndMorty.Server.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968BC12-EE5E-4402-A4F3-C8D408CB62E6}|Server\\RickAndMorty.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\rickandmorty.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\rickandmorty.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77911247-587F-483B-995F-D4ADD36CCE15}|Client\\RickAndMorty.Client.csproj|solutionrelative:client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968BC12-EE5E-4402-A4F3-C8D408CB62E6}|Server\\RickAndMorty.Server.csproj|c:\\users\\malcriada123\\source\\repos\\rickandmorty\\server\\rickandmorty.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E968BC12-EE5E-4402-A4F3-C8D408CB62E6}|Server\\RickAndMorty.Server.csproj|solutionrelative:server\\rickandmorty.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:19:13.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-23T01:18:33.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\App.razor",
+              "RelativeDocumentMoniker": "Client\\App.razor",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\App.razor",
+              "RelativeToolTip": "Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T23:01:48.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Client\\Pages\\Index.razor",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T22:11:06.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:10:47.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\Services\\CharacterService.cs",
+              "RelativeDocumentMoniker": "Client\\Services\\CharacterService.cs",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\Services\\CharacterService.cs",
+              "RelativeToolTip": "Client\\Services\\CharacterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:10:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Shared\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Shared\\Models\\Character.cs",
+              "RelativeToolTip": "Shared\\Models\\Character.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:06:09.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RickAndMorty.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\RickAndMorty.Client.csproj",
+              "RelativeDocumentMoniker": "Client\\RickAndMorty.Client.csproj",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\RickAndMorty.Client.csproj",
+              "RelativeToolTip": "Client\\RickAndMorty.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T22:08:33.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Client\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-22T22:15:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RickAndMorty.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Server\\RickAndMorty.Server.csproj",
+              "RelativeDocumentMoniker": "Server\\RickAndMorty.Server.csproj",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Server\\RickAndMorty.Server.csproj",
+              "RelativeToolTip": "Server\\RickAndMorty.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T22:14:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\MALCRIADA123\\source\\repos\\RickAndMorty\\Client\\_Imports.razor",
+              "RelativeToolTip": "Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T23:05:31.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

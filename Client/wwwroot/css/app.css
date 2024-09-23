@@ -1,0 +1,94 @@
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #1e1e2f;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    color: #00ff80;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+input.search-bar {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto 2rem auto; 
+    padding: 10px;
+    border-radius: 50px;
+    border: 2px solid #00ff80;
+    background-color: #fff;
+    color: #333;
+    font-size: 1.2rem;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+    input.search-bar:focus {
+        outline: none;
+        border-color: #4d9fff; 
+    }
+
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.character-card {
+    flex: 1 1 calc(25% - 40px);
+    max-width: 250px;
+    border: 2px solid #4d9fff; 
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    background-color: #282a36;
+    color: #fff;
+    transition: transform 0.3s ease;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+    .character-card:hover {
+        transform: scale(1.05);
+    }
+
+    .character-card img {
+        max-width: 100%;
+        border-radius: 15px;
+        margin-bottom: 15px;
+    }
+
+    .character-card h2 {
+        color: #00ff80;
+    }
+
+    .character-card p {
+        margin: 5px 0;
+        font-size: 1.1rem;
+        color: #f1f1f1;
+    }
+    
+    .pagination {
+    margin-top: 30px;
+    text-align: center;
+
+    }
+
+    .pagination button {
+        background-color: #4d9fff; 
+        border: none;
+        padding: 10px 20px;
+        border-radius: 50px;
+        color: white;
+        font-size: 1.2rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin: 0 10px;
+    }
+
+    .pagination button:hover {
+            background-color: #00ff80;
+ }
